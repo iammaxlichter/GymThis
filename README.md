@@ -3,14 +3,14 @@
 # GymThis 🏋️‍♀️💪
 To create a new experience for Experienced Gym for experienced gym bros and to alleviate pressure from beginners
 
-# MVP
+# Featured Content
 
 • Track progress on different workouts<br>
 • Ability to set a goal for certain lifts in certain weeks<br>
 • Plan out workout sessions (PPL/Arnold/Bro Split/3 Day) - beginner<br>
 • Ability to remember working sets and 1 rep max<br>
 
-# Strech Goals
+# Future Plans
 
 • Friends list<br>
 • Workout calendar that uses Android/Apple aalendar<br>
