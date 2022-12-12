@@ -13,7 +13,7 @@ Do you ever feel like there is too much to remember in the gym? How many reps/se
 # Future Plans
 
 • Friends list<br>
-• Workout calendar that uses Android/Apple aalendar<br>
+• Workout calendar that uses Android/Apple calendar<br>
 • Calorie counter<br>
 • Total customization of workout split<br>
 • Visualization for workout<br>
