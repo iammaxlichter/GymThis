@@ -29,6 +29,5 @@ To create a new experience for Experienced Gym for experienced gym bros and to a
 | 1/1 - 1/7  | Front-end: Finish wireframes<br> Back-end: profile authentication |
 | 1/8 - 1/14 | Front-end:code a single page each<br> Back-end: profile authentication |
 
-# Tech Stack
 
 
