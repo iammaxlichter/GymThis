@@ -1,7 +1,7 @@
 
 
 # GymThis 🏋️‍♀️💪
-To create a new experience for Experienced Gym for experienced gym bros and to alleviate pressure from beginners
+Do you ever feel like there is too much to remember in the gym? How many reps/sets, what each exercise does, and the progress you need to be making has all been integrated into GymThis. GymThis allows new and experience gym goers alike to help store principal information regarding the gym.
 
 # Featured Content
 
