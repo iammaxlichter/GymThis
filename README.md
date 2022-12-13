@@ -18,6 +18,7 @@ Do you ever feel like there is too much to remember in the gym? How many reps/se
 • Total customization of workout split<br>
 • Visualization for workout<br>
 • AI for weight progression<br>
+• Animated Logo<br>
 • Questionare for workout split (Tensor flow neural network)<br>
 
 # Calendar
